@@ -38,6 +38,3 @@ function PushButton(){
   function GetResponse(result){
     document.getElementById("formsignup").innerHTML = result;
 }
-
-//write a function to validate an email with javascript
-function validateEmail(email) { }
